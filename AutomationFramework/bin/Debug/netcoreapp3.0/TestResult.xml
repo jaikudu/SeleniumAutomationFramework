@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run start-time="2019-12-21 15:59:34Z">
+  <command-line><![CDATA["C:\Users\jaiku\.nuget\packages\nunit.consolerunner\3.10.0\tools\nunit3-console.exe"  AutomationFramework.exe]]></command-line>
+</test-run>
